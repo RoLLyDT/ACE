@@ -1,4 +1,4 @@
-//Maksim KOZLOV 20219332
+//Maksim KOZLOV
 
 import java.util.*;
 
